@@ -16,9 +16,15 @@
 Java5(JDK 1.5) 부터 - **System.out.printf()** 추가됨
 
 ​	System.out.printf("출력하려는 포맷문자열")
+
 ​	System.out.printf("가나다")
+
 ​	System.out.printf("가나다\n")
+
 ​	System.out.printf("가나다%n")
+
 ​	System.out.printf("가나%d다", sum)
+
 ​	System.out.printf("가나%.2f다", avg)
+
 ​	System.out.printf("가%d나%.2f다", sum, avg)
