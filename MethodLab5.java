@@ -19,7 +19,7 @@ public class MethodLab5 {
 	static int[] powerArray(int p) {
 		int[] result = new int[10];
 		for(int i=0; i<10; i++) 
-			result[i] = MethodLab3.getRandom(10)*p;
+			result[i] = (i+1)*p;
 		return result;
 	}
 }
