@@ -1,4 +1,4 @@
-### System.out.println(), System.out.print()
+System.out.println(), System.out.print()
 
 (1) 출력 데이터를 한 개만 지정
 
@@ -7,11 +7,12 @@
 (3) 출력하려는 데이터의 타입에 따라 출력 형식이 정해진다.
 
 ​		int --> 10진수 숫자
+
  		char --> 문자
+
 ​		double --> 소수점 이하의 자리수를 설정불가
 
 
-### System.out.printf()
 
 Java5(JDK 1.5) 부터 - **System.out.printf()** 추가됨
 
